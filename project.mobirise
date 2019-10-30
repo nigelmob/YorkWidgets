@@ -38,7 +38,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
     "pwa-switcher": false,
-    "uniqCompNum": 5,
+    "uniqCompNum": 7,
     "versionPublish": "4.11.4"
   },
   "pages": {
@@ -128,6 +128,34 @@
           ],
           "_name": "pro.custom-html",
           "_anchor": "custom-html-4",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1 class=\"display-1\">Social Sciences Widget</h1>\n    <iframe scrolling=\"no\" src=\"http://public.ducky.eco/en/challenge/-LsN7JVEFshEIFKhChBE/-LsN7JReq7OjZ9Qx031K\" style=\"min-height: 500px;\" title=\"challengeWidget\" width=\"75%\"></iframe>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-5",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1 class=\"display-1\">University Support Widget</h1>\n    <iframe scrolling=\"no\" src=\"http://public.ducky.eco/en/challenge/-LsN7JVEFshEIFKhChBE/-LsN7JReq7OjZ9Qx031U\" style=\"min-height: 500px;\" title=\"challengeWidget\" width=\"75%\"></iframe>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-6",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
         }
